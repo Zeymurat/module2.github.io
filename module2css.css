@@ -1,0 +1,109 @@
+@media only screen and (max-width: 767px){
+	div{
+		align-content: center;
+		margin: 1%;
+		float: left;
+		
+	}
+	#firstbox{
+		background-color: gray;
+		border: solid;
+	}
+	#secondbox{
+		background-color: gray;
+		border: solid;
+	}
+	#thirdbox{
+		background-color: gray;
+		border: solid;
+	}	
+}
+@media only screen and (min-width: 768px) and (max-width: 991px){
+	div{
+		align-content: center;
+		margin: 1%;
+		float: left;
+	}
+	#firstbox{
+		background-color: gray;
+		border: solid;
+		width: 45%;
+		
+	}
+	#secondbox{
+		background-color: gray;
+		border: solid;
+		width: 45%;
+	}
+	#thirdbox{
+		background-color: gray;
+		border: solid;
+		width: 92.6%;
+	}	
+}
+@media only screen and (min-width: 992px){
+	div{
+		align-content: center;
+		margin: 1%;
+		float: left;		
+	}
+	#firstbox{
+		background-color: gray;
+		border: solid;
+		width: 30%;
+		
+	}
+	#secondbox{
+		background-color: gray;
+		border: solid;
+		width: 30%;
+	}
+	#thirdbox{
+		background-color: gray;
+		border: solid;
+		width: 30%;
+	}	
+}
+.firsttitle{
+		float: right;
+		background-color:coral;
+		border: solid;
+		margin-top: -3px;
+		margin-right: -3px;
+		margin-bottom: 0px;
+		margin-left: 0px;
+		padding-top: 7px;
+		padding-bottom: 7px;
+		padding-right: 40px;
+		padding-left: 40px;
+		font-size: 22px;
+	}
+	.secondtitle{
+		float: right;
+		background-color:red;
+		color:white;
+		border: solid black;
+		margin-top: -3px;
+		margin-right: -3px;
+		margin-bottom: 0px;
+		margin-left: 0px;
+		padding-top: 7px;
+		padding-bottom: 7px;
+		padding-right: 40px;
+		padding-left: 40px;
+		font-size: 22px;
+	}
+	.thirdtitle{
+		float: right;
+		background-color:burlywood;
+		border: solid;
+		margin-top: -3px;
+		margin-right: -3px;
+		margin-bottom: 0px;
+		margin-left: 0px;
+		padding-top: 7px;
+		padding-bottom: 7px;
+		padding-right: 40px;
+		padding-left: 40px;
+		font-size: 22px;
+	}
